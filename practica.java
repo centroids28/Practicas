@@ -16,9 +16,6 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.io.BufferedReader;
 
-import java.io.FileReader;
-
-import java.io.FileNotFoundException;
 
 /*
  * Tarea 3: Sistema de Gestion de Notas.
